@@ -1,4 +1,6 @@
 # Computing Intelligence — Lab 1
+# Name: MUGISHA MANZI Kevin
+# Reg No: 224006132
 
 This repository contains the completed exploratory analysis for the IBM Telco Customer Churn dataset.
 
